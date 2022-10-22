@@ -13,6 +13,8 @@ function Header() {
         <a href="#">Model 3</a>
         <a href="#">Model X</a>
         <a href="#">Model Y</a>
+     <a href="#">Solar Roof</a>
+     <a href="#">Solar Panels</a>
       </Menu>
       <RightMenu>
           <a href="#"> Shop</a>
