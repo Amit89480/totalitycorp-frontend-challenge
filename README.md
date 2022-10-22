@@ -28,3 +28,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The techstacks used in the project is HTML ,CSS ,JAVASCRIPT AND React and redux with styled components .
 This is a landing page of Tesla and and a fully responsive website.
+React js is a javascript library which is used for making then SPA which is single page application and html is used for desigining the structure of the webpage.
+CSS is used for beautifying the webpage and Javascript is used to create logic in webpage. also javascript is a very powerful programming language for creating webpages and Applications.
